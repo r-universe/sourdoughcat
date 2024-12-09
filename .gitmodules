@@ -1,5 +1,11 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "Ramble"]
+	path = Ramble
+	url = https://github.com/sourdoughcat/ramble
+[submodule "binst"]
+	path = binst
+	url = https://github.com/sourdoughcat/binst
+	subdir = R
